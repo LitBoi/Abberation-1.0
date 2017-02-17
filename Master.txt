@@ -1,4 +1,4 @@
 
-<Version; 1.01>
+<Version: 1.01>
 /data/test.zip https://notepad-plus-plus.org/repository/7.x/7.3.2/npp.7.3.2.bin.x64.zip
 <End Of Version>
